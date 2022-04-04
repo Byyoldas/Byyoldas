@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baris,
 - 👀 I’m interested in Cybersecurity and Programming.
-- 🌱 I’m currently learning Python and Cybersecurity.
+- 🌱 I’m currently learning C# coding.
 - 📫 You can contact with me from  barisyoldas78@gmail.com
 
 <!---
